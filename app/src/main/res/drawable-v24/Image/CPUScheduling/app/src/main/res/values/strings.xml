@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">OS Lab</string>
+    <string name="arrival_time">Arrival\nTime</string>
+    <string name="burst_time">Burst\nTime</string>
+    <string name="TAT_time">Turnaround\nTime</string>
+    <string name="waiting_time">Waiting\nTime</string>
+    <string name="completion_time">Completion\nTime</string>
+    <string name="sr_no">Serial \nNo </string>
+    <string name="process">Process\nName</string>
+    <string name="add_process">ADD</string>
+    <string name="delete_process">DELETE</string>
+    <string name="reset">Reset</string>
+    <string name="gantt_chart"><u>GANTT CHART</u>:</string>
+    <string name="output"><u>OUTPUT</u>:</string>
+    <string name="pre_emtive">Pre-emtive</string>
+    <string name="non_pre_emtive">Non Pre-emtive</string>
+    <string name="enter_time_quantum">Enter Time Quantum</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="text_hit">HITS: %d</string>
+    <string name="text_fault">FAULTS: %d</string>
+    <string name="text_miss_ration">MISS RATIO: %f</string>
+    <string name="text_hit_ration">HIT RATIO: %f</string>
+    <string name="text_pages">PAGES: %d</string>
+    <string name="text_frames">FRAMES: %d</string>
+    <string name="allow_digit_for_reference">0123456789,</string>
+    <string name="error_enter_valid_reference_numbers">Invalid Reference Number (eg:1,2,3,4,5....)</string>
+    <string name="error_enter_valid_frame">Invalid Input</string>
+    <string name="edit_text_hint_frames">Frames</string>
+    <string name="edit_text_hint_ref_number">Reference Number</string>
+    <string name="text_btn_submit">SUBMIT</string>
+    <string name="text_output">OUTPUT:</string>
+    <string name="splash_scren_aap_name">Operating System \nVirtual Lab</string>
+
+</resources>

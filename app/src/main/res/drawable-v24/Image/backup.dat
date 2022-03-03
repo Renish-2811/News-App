@@ -1,0 +1,18 @@
+true
+		// F100
+	
+	   MVI D,00
+	   MVI D,00	// Clear reg.D
+		// HL
+		// C
+		// A
+
+UP:		// HL
+		// A
+	   DAA	// Decimal Adjust After Addition
+	   JNC DOWN	// Jump if no carry
+		// D
+
+DOWN:		// C
+	   JNZ UP	// Jump if ZF=0
+		// [F200]

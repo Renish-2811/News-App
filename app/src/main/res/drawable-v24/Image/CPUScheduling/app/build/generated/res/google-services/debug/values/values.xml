@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">85043888439-52m0h8tde8022fgi7h42dcvndm10cmeo.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cpu-scheduling-28a99.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">85043888439</string>
+    <string name="google_api_key" translatable="false">AIzaSyACfuBA6AJzk0oiJ6dmsDJKl4A7wgrbOJ0</string>
+    <string name="google_app_id" translatable="false">1:85043888439:android:06ef1e178373b4a4bc9ab2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyACfuBA6AJzk0oiJ6dmsDJKl4A7wgrbOJ0</string>
+    <string name="google_storage_bucket" translatable="false">cpu-scheduling-28a99.appspot.com</string>
+    <string name="project_id" translatable="false">cpu-scheduling-28a99</string>
+</resources>

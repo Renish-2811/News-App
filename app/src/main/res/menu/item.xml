@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_USA"
+        android:title="USA" />
+
+    <item
+        android:id="@+id/nav_RUSSIA"
+        android:title="RUSSIA" />
+
+    <item
+        android:id="@+id/nav_FRANCE"
+        android:title="FRANCE" />
+
+    <item
+        android:id="@+id/nav_GERMANY"
+        android:title="GERMANY" />
+
+    <item
+        android:id="@+id/nav_UK"
+        android:title="UK" />
+</menu>
